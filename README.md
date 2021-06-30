@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @willy0275
+- 👀 I’m interested in software design and architecture
+- 🌱 I’m currently learning to be more patient
